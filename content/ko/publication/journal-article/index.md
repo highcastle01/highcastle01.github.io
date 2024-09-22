@@ -1,12 +1,11 @@
 ---
-title: "An example journal article"
+title: "주요 프로젝트 개괄"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-09-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

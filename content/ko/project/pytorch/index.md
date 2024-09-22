@@ -1,6 +1,6 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: 파이토치
+date: 2024-09-22
 external_link: https://github.com/pytorch/pytorch
 tags:
   - Hugo

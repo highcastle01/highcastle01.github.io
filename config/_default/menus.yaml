@@ -4,57 +4,48 @@
   #   The weight parameter defines the order that the links will appear in.
 
 # 한국어 메뉴
-ko:
-  main:
-    - name: "소개"
-      url: /
-      weight: 10
-    - name: "논문"
-      url: /#papers
-      weight: 11
-    - name: "발표"
-      url: /#talks
-      weight: 12
-    - name: "뉴스"
-      url: /#news
-      weight: 13
-    - name: "경험"
-      url: /experience/
-      weight: 20
-    - name: "프로젝트"
-      url: /projects/
-      weight: 30
-    - name: "강의"
-      url: /teaching/
-      weight: 40
+main:
+  - name: "소개"
+    url: /
+    weight: 10
+  - name: "논문"
+    url: /#papers
+    weight: 11
+  - name: "발표"
+    url: /#talks
+    weight: 12
+  - name: "뉴스"
+    url: /#news
+    weight: 13
+  - name: "경험"
+    url: /experience/
+    weight: 20
+  - name: "프로젝트"
+    url: /projects/
+    weight: 30
+  - name: "강의"
+    url: /teaching/
+    weight: 40
 
-# 영어 메뉴
-en:
-  main:
-    - name: "About"
-      url: /en/
-      weight: 10
-    - name: "Papers"
-      url: /en/#papers
-      weight: 11
-    - name: "Talks"
-      url: /en/#talks
-      weight: 12
-    - name: "News"
-      url: /en/#news
-      weight: 13
-    - name: "Experience"
-      url: /en/experience/
-      weight: 20
-    - name: "Projects"
-      url: /en/projects/
-      weight: 30
-    - name: "Teaching"
-      url: /en/teaching/
-      weight: 40
-
-zh:
-  main:
-    - name: "关于"
-      url: /zh/
-      weight: 10
+main_en:
+  - name: "About"
+    url: /en/
+    weight: 10
+  - name: "Papers"
+    url: /en/#papers
+    weight: 11
+  - name: "Talks"
+    url: /en/#talks
+    weight: 12
+  - name: "News"
+    url: /en/#news
+    weight: 13
+  - name: "Experience"
+    url: /en/experience/
+    weight: 20
+  - name: "Projects"
+    url: /en/projects/
+    weight: 30
+  - name: "Teaching"
+    url: /en/teaching/
+    weight: 40
