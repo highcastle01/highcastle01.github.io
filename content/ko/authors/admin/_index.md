@@ -25,13 +25,13 @@ role: 학부생
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 전북대학교
-    url: https://www.jbnu.ac.kr
+    url: https://www.jbnu.ac.kr/kor
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'castle_h0326@jbnu.ac.kr'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
