@@ -25,18 +25,18 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: jbnu
-    url: https://www.jbnu.ac.kr
+    url: https://www.jbnu.ac.kr/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'castle_h0326@jbnu.ac.kr'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/glow_pluto/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
