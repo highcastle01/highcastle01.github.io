@@ -4,44 +4,44 @@
   #   The weight parameter defines the order that the links will appear in.
 
 # 한국어 메뉴
-menu:
+ko:
   main:
     - name: "소개"
-      url: /ko/
+      url: /
       weight: 10
     - name: "논문"
-      url: /ko/#papers
+      url: /#papers
       weight: 11
     - name: "발표"
-      url: /ko/#talks
+      url: /#talks
       weight: 12
     - name: "뉴스"
-      url: /ko/#news
+      url: /#news
       weight: 13
     - name: "경험"
-      url: /ko/experience/
+      url: /experience/
       weight: 20
     - name: "프로젝트"
-      url: /ko/projects/
+      url: /projects/
       weight: 30
     - name: "강의"
-      url: /ko/teaching/
+      url: /teaching/
       weight: 40
 
 # 영어 메뉴
-menu:
-  main_en:
+en:
+  main:
     - name: "About"
-      url: /
+      url: /en/
       weight: 10
     - name: "Papers"
-      url: /#papers
+      url: /en/#papers
       weight: 11
     - name: "Talks"
-      url: /#talks
+      url: /en/#talks
       weight: 12
     - name: "News"
-      url: /#news
+      url: /en/#news
       weight: 13
     - name: "Experience"
       url: /en/experience/
