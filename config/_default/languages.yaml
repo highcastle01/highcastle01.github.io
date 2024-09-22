@@ -4,13 +4,13 @@
 
 languages:
   ko:
-    languageCode: ko-KR
+    languageCode: ko-kr
     languageDirection: ltr
     languageName: 한국어
     title: Projekt Dokumentation
     weight: 1
   en:
-    languageCode: en-US
+    languageCode: en-us
     languageDirection: ltr
     languageName: English
     title: Project Documentation
