@@ -3,52 +3,52 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
-main:
-  # 한국어
-  ko:
-    - name: "소개"
-      url: /
-      weight: 10
-    - name: "논문"
-      url: /#papers
-      weight: 11
-    - name: "발표"
-      url: /#talks
-      weight: 12
-    - name: "뉴스"
-      url: /#news
-      weight: 13
-    - name: "경험"
-      url: /ko/experience/
-      weight: 20
-    - name: "프로젝트"
-      url: /ko/projects/
-      weight: 30
-    - name: "강의"
-      url: /ko/teaching/
-      weight: 40
-
-  # 영어
-  en:
-    - name: "About"
-      url: /
-      weight: 10
-    - name: "Papers"
-      url: /#papers
-      weight: 11
-    - name: "Talks"
-      url: /#talks
-      weight: 12
-    - name: "News"
-      url: /#news
-      weight: 13
-    - name: "Experience"
-      url: /en/experience/
-      weight: 20
-    - name: "Projects"
-      url: /en/projects/
-      weight: 30
-    - name: "Teaching"
-      url: /en/teaching/
-      weight: 40
+menu:
+  main:
+    # 한국어
+    ko:
+      - name: "소개"
+        url: /
+        weight: 10
+      - name: "논문"
+        url: /#papers
+        weight: 11
+      - name: "발표"
+        url: /#talks
+        weight: 12
+      - name: "뉴스"
+        url: /#news
+        weight: 13
+      - name: "경험"
+        url: /ko/experience/
+        weight: 20
+      - name: "프로젝트"
+        url: /ko/projects/
+        weight: 30
+      - name: "강의"
+        url: /ko/teaching/
+        weight: 40
+    # 영어
+    en:
+      - name: "About"
+        url: /
+        weight: 10
+      - name: "Papers"
+        url: /#papers
+        weight: 11
+      - name: "Talks"
+        url: /#talks
+        weight: 12
+      - name: "News"
+        url: /#news
+        weight: 13
+      - name: "Experience"
+        url: /en/experience/
+        weight: 20
+      - name: "Projects"
+        url: /en/projects/
+        weight: 30
+      - name: "Teaching"
+        url: /en/teaching/
+        weight: 40
 
