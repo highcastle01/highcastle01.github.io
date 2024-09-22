@@ -6,13 +6,13 @@
 # Website name
 title: 임성혁 소개 페이지
 # Website URL
-baseURL: 'https://highcastle01.github.io'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ko
+defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
