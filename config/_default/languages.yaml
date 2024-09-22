@@ -3,17 +3,17 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 languages:
-  ko:
-    languageCode: ko-kr
-    languageDirection: ltr
-    languageName: 한국어
-    title: Projekt Dokumentation
-    weight: 1
   en:
     languageCode: en-us
     languageDirection: ltr
     languageName: English
     title: Project Documentation
+    weight: 1
+  ko:
+    languageCode: ko-kr
+    languageDirection: ltr
+    languageName: 한국어
+    title: Projekt Dokumentation
     weight: 2
 
 # # Default language
