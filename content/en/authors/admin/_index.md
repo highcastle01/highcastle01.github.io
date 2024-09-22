@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/glow_pluto/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/highcastle01
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
