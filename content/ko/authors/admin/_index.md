@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: 학부생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: jbnu
+  - name: 전북대학교
     url: https://www.jbnu.ac.kr
 
 # Social network links
