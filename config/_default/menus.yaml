@@ -52,3 +52,9 @@ en:
     - name: "Teaching"
       url: /en/teaching/
       weight: 40
+
+zh:
+  main:
+    - name: "关于"
+      url: /zh/
+      weight: 10
