@@ -3,13 +3,13 @@
 title: 임성혁
 
 # Name pronunciation (optional)
-# name_pronunciation: Yim seonghyuk
+name_pronunciation: 
 
 # phone_number: 010-0000-0000
 
 # Full name (for SEO)
-# first_name: Yim
-# last_name: seonghyuk
+first_name: 
+last_name: 
 
 # Status emoji
 status:
