@@ -3,11 +3,13 @@
 title: 임성혁
 
 # Name pronunciation (optional)
-name_pronunciation: Yim seonghyuk
+# name_pronunciation: Yim seonghyuk
+
+phone_number: 010-0000-0000
 
 # Full name (for SEO)
-first_name: Yim
-last_name: seonghyuk
+# first_name: Yim
+# last_name: seonghyuk
 
 # Status emoji
 status:
@@ -39,12 +41,12 @@ profiles:
     url: https://www.instagram.com/glow_pluto/
   - icon: brands/github
     url: https://github.com/highcastle01
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - 데이터마이닝
