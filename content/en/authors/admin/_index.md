@@ -79,7 +79,7 @@ education:
     date_start: 2020-03-02
     date_end: 2026-02-26
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.0/4.5
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -130,17 +130,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Concert
+        description: ''
+        percent: 90
+        icon: person-simple-walk
+      - name: Watching Soccer
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 40
         icon: camera
 
 languages:
