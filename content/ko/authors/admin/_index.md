@@ -5,7 +5,7 @@ title: 임성혁
 # Name pronunciation (optional)
 # name_pronunciation: Yim seonghyuk
 
-phone_number: 010-0000-0000
+# phone_number: 010-0000-0000
 
 # Full name (for SEO)
 # first_name: Yim
@@ -183,6 +183,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## 안녕하세요, 임성혁입니다.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+안녕하세요. 저는 전북대학교 컴퓨터인공지능학부에 3학년으로 재학중인 임성혁입니다. 간단한 저의 학위, 연락처와 제가 진행한 프로젝트들이 담긴 페이지입니다.
+찾아주셔서 감사하고 좋은하루 되세요.
