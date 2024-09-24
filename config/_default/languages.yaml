@@ -19,7 +19,7 @@ en:
   title: Project Documentation
   weight: 2
   contentDir: content/en
-  menus: main-en
+  menus: main_en
 
 zh:
   languageCode: zh-Hans
