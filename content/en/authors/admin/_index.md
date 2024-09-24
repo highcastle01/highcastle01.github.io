@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 임성혁
+title: Yim Seong Hyuk
 
 # Name pronunciation (optional)
-name_pronunciation: Yim seonghyuk
+# name_pronunciation: Yim seonghyuk
 
 # Full name (for SEO)
-first_name: Yim
-last_name: seonghyuk
+# first_name: Yim
+# last_name: seonghyuk
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello. I am Yim Seong-hyuk, a third-year student in the Department of Computer and Artificial Intelligence at Jeonbuk National University. This page contains a brief description of my degree, contact information, and projects I have worked on. Thank you for visiting and have a nice day.
