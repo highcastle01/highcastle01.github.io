@@ -1,5 +1,5 @@
 ---
-title: "테스트1 / working paper"
+title: "테스트1"
 authors:
 - admin
 date: "2024-09-22T00:00:00Z"
