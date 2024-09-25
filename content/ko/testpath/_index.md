@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: 테스트 페이지입니다.
 summary: My courses
 type: landing
 
