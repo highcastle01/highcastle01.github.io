@@ -24,7 +24,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: jbnu
+  - name: JBNU
     url: https://www.jbnu.ac.kr/en
 
 # Social network links
