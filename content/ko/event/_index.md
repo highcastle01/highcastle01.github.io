@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 최근 이력
 cms_exclude: true
 #url: talk
 
