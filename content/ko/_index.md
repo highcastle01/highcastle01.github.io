@@ -43,7 +43,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 활동
       filters:
         folders:
           - publication
@@ -53,7 +53,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: 최근 이력
       text: ""
       filters:
         folders:
@@ -64,7 +64,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 이야깃거리
       filters:
         folders:
           - event
@@ -74,7 +74,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 최근 뉴스
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
