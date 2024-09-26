@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 게시판
 cms_exclude: true
 
 # View.
