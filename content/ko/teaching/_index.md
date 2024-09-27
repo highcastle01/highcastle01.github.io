@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: 강의
 summary: My courses
 type: landing
 

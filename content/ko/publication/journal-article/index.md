@@ -23,7 +23,7 @@ publication_short: ""
 abstract: 프로젝트 개괄
 
 # Summary. An optional shortened abstract.
-summary: 프로젝트 요약....입니당
+summary: 프로젝트 요약
 
 tags:
 - Source Themes
