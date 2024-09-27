@@ -112,13 +112,13 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 기술 포트폴리오
     items:
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: 데이터 분석
         description: ''
         percent: 100
         icon: chart-bar
@@ -126,7 +126,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -144,11 +144,11 @@ skills:
         icon: camera
 
 languages:
-  - name: Korean
+  - name: 한국어
     percent: 100
-  - name: English
+  - name: 영어
     percent: 60
-  - name: Chinese
+  - name: 중국어
     percent: 25
 
 # Awards.
