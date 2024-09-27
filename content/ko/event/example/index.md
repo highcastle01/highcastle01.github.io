@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: 이야기 테스트
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
