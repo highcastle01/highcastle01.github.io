@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} 본 사이트는 다음과 같은 라이센스를 따릅니다. {license}'
     license:
       enable: true
       allow_derivatives: false
