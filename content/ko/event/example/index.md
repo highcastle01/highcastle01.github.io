@@ -41,7 +41,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: 'https://github.com/highcastle01/highcastle01.github.io'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
 url_video: 'https://youtube.com'
