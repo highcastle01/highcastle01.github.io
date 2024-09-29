@@ -82,8 +82,10 @@ education:
       GPA: 4.0/4.5
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 자료구조
+      - 알고리즘
+      - 운영체제
+      - 데이터베이스
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure

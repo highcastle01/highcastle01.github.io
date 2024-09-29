@@ -1,5 +1,5 @@
 ---
-title: 판다스
+title: 데이터베이스 프로젝트
 date: 2024-09-22
 external_link: https://github.com/pandas-dev/pandas
 tags:
