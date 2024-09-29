@@ -1,5 +1,5 @@
 ---
-title: "테스트1"
+title: "정보검색에서의 LLM의 역할"
 authors:
 - admin
 date: "2024-09-22T00:00:00Z"
@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: 안녕하세요 저는 테스트입니다.
+abstract: 추상화?
 
 # Summary. An optional shortened abstract.
-summary: 내용 테스트 중. 요약 테스트임.
+summary: 정보검색에서 주로 사용되는 LLM의 특징에 대해 알아보았다.
 
 tags:
 - Introduce
