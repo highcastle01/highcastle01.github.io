@@ -1,5 +1,5 @@
 ---
-title: 파이토치
+title: 자바로 만든 게임
 date: 2024-09-22
 external_link: https://github.com/pytorch/pytorch
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 🎉 여름 활동을 마치며
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: 연구실 활동과 양자역학을 배우며 수학의 필요성을 절실히 느끼게 되다.
 date: 2024-08-31
 
 # Featured image
