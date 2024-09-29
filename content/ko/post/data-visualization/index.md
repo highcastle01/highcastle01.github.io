@@ -1,7 +1,7 @@
 ---
-title: 📈 대시보드
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: 📈 3학년 1학기를 마치며
+summary: 3학년 1학기를 마치며 정리하는 생각들
+date: 2024-06-25
 authors:
   - admin
 tags:
