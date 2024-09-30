@@ -1,7 +1,7 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: 👩🏼‍🏫 동아리 활동 정리
+summary: 2학년과 3학년 때 활동한 동아리 정리
+date: 2024-09-01
 math: true
 authors:
   - admin
