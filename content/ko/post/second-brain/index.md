@@ -1,6 +1,6 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: 🧠 공모전 / 대회가 중요한 이유
+summary: 공모전 / 대회가 중요한 이유 포스트
 date: 2023-10-26
 authors:
   - admin
