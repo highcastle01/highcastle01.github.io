@@ -1,6 +1,6 @@
 ---
 title: '프로젝트'
-date: 2024-05-19
+date: 2024-10-01
 type: landing
 
 design:
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 진행된 프로젝트를 선택해주세요.
+      title: 제가 진행한 프로젝트를 선택해주세요.
       text: 저의 프로젝트를 소개합니다.
       filters:
         folders:
