@@ -1,6 +1,6 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: 자바스크립트 약력
+summary: 자바스크립트 배우기
 date: 2023-10-24
 type: docs
 math: false
