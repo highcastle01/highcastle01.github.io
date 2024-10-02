@@ -1,6 +1,6 @@
 ---
-title: 자바스크립트 약력
-summary: 자바스크립트 배우기
+title: 유튜브 공연쇼츠
+summary: 공연영상을 쇼츠로 올렸어요.
 date: 2023-10-24
 type: docs
 math: false
