@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: 울산을 소개합니다.
+summary: 울산 소개
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Python
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

@@ -1,11 +1,11 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: 삶
+summary: 저의 인생을 소개합니다.
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - JavaScript
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
