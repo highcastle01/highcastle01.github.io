@@ -1,5 +1,5 @@
 ---
-title: example index 테스트
+title: 이벤트
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
