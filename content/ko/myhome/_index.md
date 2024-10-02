@@ -1,6 +1,6 @@
 ---
-title: 강의
-summary: My courses
+title: 고향
+summary: 저의 고향 울산을 소개합니다.
 type: landing
 
 cascade:
