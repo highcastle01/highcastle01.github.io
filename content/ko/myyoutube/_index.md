@@ -1,6 +1,6 @@
 ---
-title: 테스트 페이지입니다.
-summary: My courses
+title: 공연영상모음
+summary: 제가 다닌 공연을 함께 봐요
 type: landing
 
 cascade:
