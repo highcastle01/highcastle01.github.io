@@ -7,6 +7,8 @@ name_pronunciation:
 
 # phone_number: 010-0000-0000
 
+email: 'castle_h0326@jbnu.ac.kr'
+
 # Full name (for SEO)
 first_name: 
 last_name: 
