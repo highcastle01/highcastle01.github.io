@@ -23,7 +23,7 @@ main:
   - name: "프로젝트"
     url: /projects/
     weight: 30
-  # - name: "강의"
-  #   url: /teaching/
-  #   weight: 40
+  - name: "인생"
+    url: /myhome/
+    weight: 40
   
