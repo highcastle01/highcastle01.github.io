@@ -11,39 +11,39 @@ sections:
       title: 
       text: <br><span style="font-size:125%">슬라이드 테스트 중</span>
 
-  # - block: slider
-  #   content:
-  #     slides:
+  - block: slider
+    content:
+      slides:
 
-  #     - title: <span style="font-size:90%">테스트1</span>
-  #       content: <span style="font-size:90%">콘텐츠 테스트<span style="font-size:90%">
-  #       align: center
-  #       background:
-  #         image:
-  #           filename: fubao.jpg
-  #           filters:
-  #             brightness: 0.4
-  #         position: center
-  #         color: '#000'
+      - title: <span style="font-size:90%">테스트1</span>
+        content: <span style="font-size:90%">콘텐츠 테스트<span style="font-size:90%">
+        align: center
+        background:
+          image:
+            filename: fubao.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
-  #     - title: <span style="font-size:90%">테스트2</span>
-  #       content: <span style="font-size:90%">콘텐츠 테스트투</span>
-  #       align: center
-  #       background:
-  #         image:
-  #           filename: fubao.jpg
-  #           filters:
-  #             brightness: 0.4
-  #         position: center
-  #         color: '#000'
+      - title: <span style="font-size:90%">테스트2</span>
+        content: <span style="font-size:90%">콘텐츠 테스트투</span>
+        align: center
+        background:
+          image:
+            filename: fubao.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
-  #   design:
-  #     # Slide height is automatic unless you force a specific height (e.g. '400px')
-  #     slide_height: '350px'
-  #     is_fullscreen: true
-  #     # Automatically transition through slides?
-  #     loop: true
-  #     # Duration of transition between slides (in ms)
-  #     interval: 3000
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '350px'
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
 
 ---
