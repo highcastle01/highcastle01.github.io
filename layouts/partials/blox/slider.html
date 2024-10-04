@@ -16,15 +16,43 @@
   {{ end }}
 
   <!-- Carousel slides wrapper -->
-  <div id="{{$hash_id}}" class="carousel slide" data-bs-ride="carousel">
+  <div id="{{$hash_id}}" class="carousel slide" data-bs-ride="carousel" data-bs-interval="{{ $block.design.interval | default "5000" }}" {{ if $block.design.loop }}data-bs-wrap="true"{{ end }}>
     <div class="carousel-inner">
       {{ range $index, $item := $block.content.slides }}
-      <div class="carousel-item {{if eq $index 0}} active{{end}}">
-        <div class="carousel-caption">
-          <h1>{{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}</h1>
-          {{ with $item.content }}
-          <p>{{ . | markdownify | emojify }}</p>
-          {{ end }}
+      {{ $style_bg := "" }}
+      {{ $style_filter := "" }}
+
+      {{ with $block.design.slide_height }}
+        {{ $style_bg = printf "%s height: %s;" $style_bg . }}
+      {{ end }}
+
+      {{ $bg := $item.background }}
+      {{ with $bg.color }}
+        {{ $style_bg = printf "%s background-color: %s;" $style_bg (. | default "transparent") }}
+      {{ end }}
+
+      {{ if and $bg.image.filename }}
+        {{ $bg_img := resources.Get (printf "media/%s" $bg.image.filename) }}
+        {{ if $bg_img }}
+          {{ $style_bg = printf "%sbackground-image: url('%s'); background-repeat: no-repeat; background-position: %s; background-size: %s;" $style_bg $bg_img.Permalink ($bg.image.position | default "center") ($bg.image.size | default "cover") }}
+        {{ end }}
+        {{ with $bg.image.filters.brightness }}
+          {{ $style_filter = printf "%s -webkit-backdrop-filter: brightness(%s); backdrop-filter: brightness(%s);" $style_filter (string .) (string .) }}
+        {{ end }}
+      {{ end }}
+
+      <div class="carousel-item{{if eq $index 0}} active{{end}}" style="{{$style_bg | safeCSS}}">
+        <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="{{$style_filter | safeCSS}}">
+          <div class="container text-{{ $item.align | default "left" }}">
+            <h1 class="hero-title">{{ $item.title | markdownify | safeHTML }}</h1>
+            <p class="hero-lead">{{ $item.content | markdownify | safeHTML }}</p>
+            {{ if $item.link.url }}
+              <a href="{{ $item.link.url }}" class="btn btn-light btn-lg mt-3">
+                {{- with $item.link.icon -}}<i class="fas fa-{{ . }}" style="padding-right: 10px;"></i>{{- end -}}
+                {{- $item.link.text | markdownify | safeHTML -}}
+              </a>
+            {{ end }}
+          </div>
         </div>
       </div>
       {{ end }}
