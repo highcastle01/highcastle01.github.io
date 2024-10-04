@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "what test"
+title: "_index.md"
 date: 2024-10-01
 type: landing
 
@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: fubao.jpg
           filters:
             brightness: 1.0
           size: cover
