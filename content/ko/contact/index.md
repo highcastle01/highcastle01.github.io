@@ -7,31 +7,24 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 찾아오는 길
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        저에게 사무실이 있지는 않지만, 저를 찾아오거나 저에게 연락을 주실 방법은 무궁무진합니다.
+        대부분 공과대학 7호관에 있거든요. 아래 정보를 참고해주세요. 감사합니다.
+      email: castle_h0326@jbnu.ac.kr
+      phone: 010-8111-3021
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 전북대학교 공과대학 7호관 626호
+        city: 전주시
+        region: 전라북도
+        postcode: '54896'
+        country: 대한민국
+        country_code: KO
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+        latitude: '35.84601324617979'
+        longitude: '127.13444961966684'
+      directions:
+      appointment_url: 'https://calendar.google.com/calendar/u/0/r/week/2024/10/6?pli=1'
     
       # Automatically link email and phone or display as text?
       autolink: true

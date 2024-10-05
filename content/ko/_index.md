@@ -5,6 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: '📚 활동 모음'
+      subtitle: ''
+      text: |-
+        안녕하세요. 아래는 제가 대학시절 동안 활동한 내역들 입니다.
+        부족하기도 하지만 열심히 한 작품들과 프로젝트들이니 보는 재미가 있을 겁니다.
+        와주셔서 감사합니다.
+    design:
+      columns: '1'
+
   - block: hero
     content:
       title: |
