@@ -36,6 +36,32 @@ sections:
     design:
       columns: '1'
 
+  - block: slider
+    content:
+      slides:
+
+      - title: <span style="font-size:90%">테스원</span>
+        content: <span style="font-size:90%">테스트1<span style="font-size:90%">
+        align: center
+        background:
+          image:
+            filename: jbnu1.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">테스투</span>
+        content: <span style="font-size:90%">테스트2</span>
+        align: center
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
   - block: hero
     content:
       title: |
