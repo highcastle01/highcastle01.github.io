@@ -3,16 +3,12 @@ title: "My Life Page"
 description: "This is my life page"
 
 sections:
-  - block: timeline
+  - block: resume-experience
     content:
-      title: 'History'
-      items:
-        - title: 'Event 1'
-          date: '2020-01-01'
-          content: 'Description of the event 1'
-        - title: 'Event 2'
-          date: '2021-05-15'
-          content: 'Description of the event 2'
+      username: admin
     design:
-      style: timeline
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
 ---
