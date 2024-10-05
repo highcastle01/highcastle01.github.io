@@ -13,10 +13,10 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: 콘서트
       filters:
         folders:
-          - teaching
+          - concert
     design:
       view: article-grid
       columns: 2
