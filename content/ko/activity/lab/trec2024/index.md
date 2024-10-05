@@ -1,6 +1,7 @@
 ---
 title: TREC 2024 Product Search 참여
 date: 2024-08-10
+authors: [임성혁]
 ---
 
 이번 여름 TREC 2024 Product Search에 참여하였다.
