@@ -106,7 +106,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: 게시글
-          url: ../attract/nvidia
+          url: ../attract/stocks/nvidia
 
     design:
       slide_height: '350px'
