@@ -3,8 +3,8 @@
 title: 임성혁
 
 # Full name (for SEO)
-first_name: Seong Hyuk
-last_name: Yim
+first_name: 성혁
+last_name: 임
 
 # Username (this should match the folder name)
 authors:
@@ -46,9 +46,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'castle_h0326@jbnu.ac.kr'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: instagram
     icon_pack: fab
     link: https://instagram/glow_pluto
@@ -68,7 +65,6 @@ email: 'castle_h0326@jbnu.ac.kr'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 ## 소개
