@@ -7,16 +7,21 @@ main:
   - name: 소개
     url: introduce
     weight: 10
+
   - parent: 소개
     name: 연혁
     url: life
     weight: 11
-  - name: 군대
+  - parent: 소개
+    name: 군대
     url: military
     weight: 12
-  - name: 테스트
+  - parent: 소개
+    name: 테스트
     url: 테스트
     weight: 13
+  
+  
 
 
   - name: 소식
