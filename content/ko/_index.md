@@ -5,6 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
+
+  - block: about.education
+    id: education
+    content:
+      title: 'Education'
+      items:
+        - area: 'Computer Science'
+          institution: 'ABC University'
+          date_start: '2015-09-01'
+          date_end: '2019-06-30'
+
   - block: markdown
     content:
       title: '📚 활동 모음'
