@@ -44,13 +44,12 @@ main:
     url: event
     weight: 40
 
-
   - name: 프로젝트
     url: publication
     weight: 50
 
   - name: 취미
-    url: hobbies
+    url: 
     weight: 60
 
   - parent: 취미
