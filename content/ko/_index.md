@@ -10,14 +10,14 @@ sections:
     id: about
     content:
       title: ''
-      username: admin
+      username: 임성혁
     design:
       background:
         image:
           filename: jbnu1.png
           size: cover
           position: center
-          parallax: false
+          parallax: true
 
   - block: markdown
     content:
