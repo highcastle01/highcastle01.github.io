@@ -5,11 +5,15 @@
 
 # Appearance
 
+# appearance:
+#   theme_day: minimal
+#   theme_night: dark
+#   font: native
+#   font_size: L
+
 appearance:
-  theme_day: minimal
-  theme_night: dark
-  font: native
-  font_size: L
+  mode: system
+  color: emerald
 
 # SEO
 
