@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_night: minimal
+  theme_night: dark
   theme_day: minimal
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -41,7 +41,7 @@ header:
     show_search: true
     show_theme_chooser: true
     highlight_active_link: false
-    custom_css: "/css/custom.css"
+    custom_css: "/scss/custom.css"
 
 # Site footer
 
