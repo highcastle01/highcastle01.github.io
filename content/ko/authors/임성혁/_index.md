@@ -48,7 +48,7 @@ social:
     link: 'castle_h0326@jbnu.ac.kr'
   - icon: instagram
     icon_pack: fab
-    link: https://instagram/glow_pluto
+    link: https://www.instagram.com/glow_pluto/
   - icon: github
     icon_pack: fab
     link: https://github.com/highcastle01/highcastle01.github.io
