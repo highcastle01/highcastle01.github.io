@@ -1,23 +1,11 @@
 ---
-title: 공연영상모음
-summary: 제가 다닌 공연을 함께 봐요
-type: landing
+title: 공연
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+# Listing view
+view: compact
 
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: 콘서트
-      filters:
-        folders:
-          - concert
-    design:
-      view: article-grid
-      columns: 2
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---

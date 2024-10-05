@@ -35,18 +35,22 @@ main:
     url: club
     weight: 22
 
-  
-  - name: 커뮤니케이션
-    url: people
+  - name: 관심사
+    url: attract
     weight: 30
-
-  - name: 이벤트
-    url: event
-    weight: 40
+  
+  - parent: 관심사
+    name: 주식
+    url: stocks
+    weight: 31
+  - parent: 관심사
+    name: 정치/시사
+    url: politics
+    weight: 32
 
   - name: 프로젝트
     url: publication
-    weight: 50
+    weight: 40
 
   - name: 취미
     url: 
