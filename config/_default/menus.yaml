@@ -58,11 +58,11 @@ main:
 
   - parent: 취미
     name: 공연 관람
-    url: concert
+    url: hobbies/concert
     weight: 61
   - parent: 취미
     name: 축구 관람
-    url: soccer
+    url: hobbies/soccer
     weight: 62
 
   - name: 연락처
