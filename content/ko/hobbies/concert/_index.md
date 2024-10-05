@@ -2,7 +2,7 @@
 title: 공연
 
 # Listing view
-view: compact
+view: blog
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
