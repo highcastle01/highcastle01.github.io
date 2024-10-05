@@ -9,7 +9,7 @@ banner:
 ---
 
 <div class="portfolio-section">
-  <h2>My Portfolio</h2>
+  <h2>주식 보유현황</h2>
   <div class="chart-container" style="position: relative; height:40vh; width:80vw">
     <canvas id="myPieChart"></canvas>
   </div>
@@ -21,10 +21,10 @@ banner:
   var myPieChart = new Chart(ctx, {
     type: 'doughnut',
     data: {
-      labels: ['엔비디아', '테슬라', 'FTAI', 'SK텔레콤'],
+      labels: ['엔비디아', 'FTAI', 'SK텔레콤', '테슬라'],
       datasets: [{
         label: '포트폴리오',
-        data: [12, 19, 3, 5],
+        data: [60, 20, 10, 10],
         backgroundColor: [
           'rgba(255, 99, 132, 0.6)',
           'rgba(54, 162, 235, 0.6)',
@@ -68,3 +68,5 @@ banner:
   margin: 0 auto;
 }
 </style>
+
+많은 돈을 잃었습니다..
