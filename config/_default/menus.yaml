@@ -20,22 +20,48 @@ main:
     name: 테스트
     url: 테스트
     weight: 13
-  
-  
 
 
-  - name: 소식
+  - name: 활동
     url: post
     weight: 20
+
+  - parent: 활동
+    name: 연구실
+    url: lab
+    weight: 21
+  - parent: 활동
+    name: 동아리
+    url: club
+    weight: 22
+
+  
   - name: 커뮤니케이션
     url: people
     weight: 30
+
   - name: 이벤트
     url: event
     weight: 40
+
+
   - name: 프로젝트
     url: publication
     weight: 50
+
+  - name: 취미
+    url: hobbies
+    weight: 60
+
+  - parent: 취미
+    name: 공연 관람
+    url: concert
+    weight: 61
+  - parent: 취미
+    name: 축구 관람
+    url: soccer
+    weight: 62
+
   - name: 연락처
     url: contact
-    weight: 60
+    weight: 70
