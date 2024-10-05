@@ -19,7 +19,7 @@ sections:
           parallax: true
           overlay:  # 이미지 위에 투명도 레이어 적용
             color: '#000000'  # 검정색
-            opacity: 0.7      # 70% 투명도
+            opacity: 0.1     # % 투명도
       container:  # 컨테이너 크기 조절
         width: 70%  # 너비를 70%로 설정
         max-width: 1200px  # 최대 너비를 1200px로 설정
