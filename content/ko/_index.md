@@ -14,7 +14,7 @@ sections:
       background:
         image:
           filename: sky.png
-          size: cover
+          size: auto
           position: center
           parallax: true
           overlay:  # 이미지 위에 투명도 레이어 적용
