@@ -1,6 +1,7 @@
 ---
 title: "My Life Page"
 description: "This is my life page"
+type: "landing"
 
 sections:
   - block: experience
