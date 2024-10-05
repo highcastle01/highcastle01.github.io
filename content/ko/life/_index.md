@@ -3,12 +3,13 @@ title: "My Life Page"
 description: "This is my life page"
 
 sections:
-  - block: resume-experience
+  - block: experience
     content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
+      title: 테스트1
+      items:
+        - title: 1
+          date_start: '2024-10-04'
+          description: |
+            text
+
 ---
