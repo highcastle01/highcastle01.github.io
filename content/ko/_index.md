@@ -68,13 +68,29 @@ sections:
             filename: jannabi1.png
             filters:
               brightness: 0.4
-          position: center
+          position: left
           color: '#000'
         link:
           icon: graduation-cap
           icon_pack: fas
           text: 영상시청
           url: ../hobbies/concert/jannabi
+
+      - title: <span style="font-size:90%">논문 작성 경험</span>
+        content: <span style="font-size:90%">한국 디지털콘텐츠학회 준비</span>
+        align: right
+        background:
+          image:
+            filename: paper1.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 게시글
+          url: ../activity/lab/trec2024
 
     design:
       slide_height: '350px'
