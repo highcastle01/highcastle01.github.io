@@ -9,13 +9,17 @@ main:
     weight: 10
 
   - parent: 소개
+    name: 프로필
+    url: author/임성혁/
+    weight: 11
+  - parent: 소개
     name: 연혁
     url: introduce/life
-    weight: 11
+    weight: 12
   - parent: 소개
     name: 군대
     url: introduce/military
-    weight: 12
+    weight: 13
 
   - name: 활동
     url: activity
