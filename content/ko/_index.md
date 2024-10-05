@@ -46,7 +46,7 @@ sections:
 
       - title: <span style="font-size:90%">TREC2024 참여</span>
         content: <span style="font-size:90%">이번 여름에 참여한 TREC2024<span style="font-size:90%">
-        align: center
+        align: right
         background:
           image:
             filename: trec1.png
@@ -65,7 +65,7 @@ sections:
         align: right
         background:
           image:
-            filename: jannabi1.jpg
+            filename: jannabi1.png
             filters:
               brightness: 0.4
           position: center
