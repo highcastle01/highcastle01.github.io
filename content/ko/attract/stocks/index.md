@@ -9,8 +9,8 @@ banner:
 ---
 
 <div class="portfolio-section">
-  <h2>주식 보유현황</h2>
-  <div class="chart-container" style="position: relative; height:40vh; width:80vw">
+  <h2 style="text-align:center;">주식 보유현황</h2>
+  <div class="chart-container" style="position: relative; height:40vh; width:80vw; margin-left: 5%;">
     <canvas id="myPieChart"></canvas>
   </div>
 </div>
@@ -65,11 +65,6 @@ banner:
 }
 
 .chart-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 40vh;
-  width: 80vw;
   margin: 0 auto;
 }
 </style>
