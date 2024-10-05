@@ -6,7 +6,7 @@ sections:
   - block: timeline
     content:
       title: 'History'
-      events:
+      items:
         - title: 'Event 1'
           date: '2020-01-01'
           content: 'Description of the event 1'
