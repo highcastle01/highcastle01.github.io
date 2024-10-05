@@ -18,6 +18,12 @@ sections:
           size: cover
           position: center
           parallax: true
+          overlay:  # 이미지 위에 투명도 레이어 적용
+            color: '#000000'  #검정색
+            opacity: 0.5      #50% 투명도
+    text_overlay:  #텍스트 오버레이
+      align: center
+      color: '#ffffff'  #흰색 텍스트
 
   - block: markdown
     content:
