@@ -9,7 +9,3 @@ banner:
   image: 'stock.jpg'
 
 ---
-
-
-
-많은 돈을 잃었습니다..
