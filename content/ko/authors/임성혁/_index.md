@@ -31,15 +31,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 학부생
+      institution: 전북대학교
+      year: 2020
+    - course: 고등학생
+      institution: 매곡고등학교
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,24 +45,24 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'castle_h0326@jbnu.ac.kr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: instagram
+    icon_pack: fab
+    link: https://instagram/glow_pluto
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/highcastle01/highcastle01.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'castle_h0326@jbnu.ac.kr'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,4 +71,7 @@ user_groups:
   - Visitors
 ---
 
-개인소개
+## 소개
+
+안녕하세요. 저는 전북대학교 컴퓨터인공지능학부에 3학년으로 재학중인 임성혁입니다. 간단한 저의 학위, 연락처와 제가 진행한 프로젝트들이 담긴 페이지입니다.
+찾아주셔서 감사하고 좋은하루 되세요.
