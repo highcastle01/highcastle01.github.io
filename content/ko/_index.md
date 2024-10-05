@@ -61,8 +61,8 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-          
-      design:
+
+    design:
       slide_height: '350px'
       slide_width: '100%'
       is_fullscreen: false
