@@ -13,7 +13,7 @@ sections:
     design:
       background:
         image:
-          filename: sky.png
+          filename: cover.jpg
           size: cover
           position: center
           parallax: true
