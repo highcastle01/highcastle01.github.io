@@ -12,8 +12,14 @@
 #   font_size: L
 
 appearance:
-  mode: system
-  color: emerald
+  theme_night: minimal
+  theme_day: minimal
+  font: native
+  font_size: L
+
+# appearance:
+#   mode: system
+#   color: emerald
 
 # SEO
 
