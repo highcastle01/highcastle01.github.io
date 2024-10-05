@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: 임성혁
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Seong Hyuk
+last_name: Yim
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 임성혁
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: 전북대학교
+    url: 'https://www.jbnu.ac.kr/kor'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 저를 소개하는 페이지입니다. 간단한 소개와 함께 제가 진행한 활동들을 첨부하였습니다.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 운영체제
+  - 알고리즘
+  - 인공지능
 
 education:
   courses:
@@ -74,6 +74,4 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+개인소개
