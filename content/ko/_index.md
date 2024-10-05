@@ -53,7 +53,7 @@ sections:
 
       - title: <span style="font-size:90%">테스투</span>
         content: <span style="font-size:90%">테스트2</span>
-        align: center
+        align: right
         background:
           image:
             filename: contact.jpg
@@ -61,6 +61,11 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
 
     design:
       slide_height: '350px'
