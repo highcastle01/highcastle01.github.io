@@ -44,19 +44,24 @@ sections:
     content:
       slides:
 
-      - title: <span style="font-size:90%">테스원</span>
-        content: <span style="font-size:90%">테스트1<span style="font-size:90%">
+      - title: <span style="font-size:90%">TREC2024 참여</span>
+        content: <span style="font-size:90%">이번 여름에 참여한 TREC2024<span style="font-size:90%">
         align: center
         background:
           image:
-            filename: jbnu1.png
+            filename: trec1.png
             filters:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 게시글
+          url: ../activity/lab/trec2024
 
-      - title: <span style="font-size:90%">테스투</span>
-        content: <span style="font-size:90%">테스트2</span>
+      - title: <span style="font-size:90%">전북대 대동제</span>
+        content: <span style="font-size:90%">잔나비 공연</span>
         align: right
         background:
           image:
@@ -68,8 +73,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: 영상시청
+          url: ../hobbies/concert/jannabi
 
     design:
       slide_height: '350px'
