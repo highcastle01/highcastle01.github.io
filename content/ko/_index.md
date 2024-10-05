@@ -6,15 +6,18 @@ type: landing
 
 sections:
 
-  - block: about.education
-    id: education
+  - block: about.biography
+    id: about
     content:
-      title: 'Education'
-      items:
-        - area: 'Computer Science'
-          institution: 'ABC University'
-          date_start: '2015-09-01'
-          date_end: '2019-06-30'
+      title: ''
+      username: admin
+    design:
+      background:
+        image:
+          filename: jbnu1.png
+          size: cover
+          position: center
+          parallax: false
 
   - block: markdown
     content:
