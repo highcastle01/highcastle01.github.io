@@ -14,7 +14,7 @@
 appearance:
   theme_night: minimal
   theme_day: minimal
-  font: native
+  font: sans-serif
   font_size: L
 
 # appearance:
