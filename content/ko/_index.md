@@ -81,7 +81,7 @@ sections:
         align: right
         background:
           image:
-            filename: paper1.png
+            filename: paper1.jpg
             filters:
               brightness: 0.4
           position: center
