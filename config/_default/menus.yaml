@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: 소개
+    url: introduce
     weight: 10
-  - name: News
+  - name: 소식
     url: post
     weight: 20
-  - name: People
+  - name: 커뮤니케이션
     url: people
     weight: 30
-  - name: Events
+  - name: 이벤트
     url: event
     weight: 40
-  - name: Publications
+  - name: 프로젝트
     url: publication
     weight: 50
-  - name: Contact
+  - name: 연락처
     url: contact
     weight: 60
