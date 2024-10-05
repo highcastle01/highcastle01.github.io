@@ -53,7 +53,7 @@ main:
     weight: 40
 
   - name: 취미
-    url: 
+    url: hobbies
     weight: 60
 
   - parent: 취미
