@@ -4,32 +4,32 @@ type: "page"
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'concert.jpg'
+  image: 'stock.jpg'
 
 ---
 
 <div class="portfolio-section">
   <h2>My Portfolio</h2>
   <div class="chart-container" style="position: relative; height:40vh; width:80vw">
-    <canvas id="myChart"></canvas>
+    <canvas id="myPieChart"></canvas>
   </div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-  var ctx = document.getElementById('myChart').getContext('2d');
-  var myChart = new Chart(ctx, {
-    type: 'bar',
+  var ctx = document.getElementById('myPieChart').getContext('2d');
+  var myPieChart = new Chart(ctx, {
+    type: 'doughnut',
     data: {
-      labels: ['Stock A', 'Stock B', 'Stock C', 'Stock D'],
+      labels: ['엔비디아', '테슬라', 'FTAI', 'SK텔레콤'],
       datasets: [{
-        label: '# of Votes',
+        label: '포트폴리오',
         data: [12, 19, 3, 5],
         backgroundColor: [
-          'rgba(255, 99, 132, 0.2)',
-          'rgba(54, 162, 235, 0.2)',
-          'rgba(255, 206, 86, 0.2)',
-          'rgba(75, 192, 192, 0.2)',
+          'rgba(255, 99, 132, 0.6)',
+          'rgba(54, 162, 235, 0.6)',
+          'rgba(255, 206, 86, 0.6)',
+          'rgba(75, 192, 192, 0.6)',
         ],
         borderColor: [
           'rgba(255, 99, 132, 1)',
@@ -41,9 +41,17 @@ banner:
       }]
     },
     options: {
-      scales: {
-        y: {
-          beginAtZero: true
+      responsive: true,
+      plugins: {
+        legend: {
+          position: 'top',
+        },
+        tooltip: {
+          callbacks: {
+            label: function(tooltipItem) {
+              return tooltipItem.label + ': ' + tooltipItem.raw + '%';
+            }
+          }
         }
       }
     }
