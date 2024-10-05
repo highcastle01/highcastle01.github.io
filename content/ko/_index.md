@@ -65,7 +65,7 @@ sections:
         align: right
         background:
           image:
-            filename: contact.jpg
+            filename: jannabi1.jpg
             filters:
               brightness: 0.4
           position: center
