@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 프로젝트
 
 # Listing view
 view: citation

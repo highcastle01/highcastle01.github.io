@@ -14,7 +14,7 @@ sections:
     design:
       background:
         image:
-          filename: jbnu1.png
+          filename: sky.png
           size: cover
           position: center
           parallax: true
