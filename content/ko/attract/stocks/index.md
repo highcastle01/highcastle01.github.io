@@ -65,6 +65,11 @@ banner:
 }
 
 .chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  width: 80vw;
   margin: 0 auto;
 }
 </style>
