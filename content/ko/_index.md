@@ -91,6 +91,22 @@ sections:
           icon_pack: fas
           text: 게시글
           url: ../activity/lab/write_paper
+      
+      - title: <span style="font-size:90%">엔비디아 주식</span>
+        content: <span style="font-size:90%">엔비디아는 오를 것인가?</span>
+        align: right
+        background:
+          image:
+            filename: nvidia1.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 게시글
+          url: ../attract/nvidia
 
     design:
       slide_height: '350px'
