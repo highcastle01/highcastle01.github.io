@@ -1,22 +1,26 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+ko:
+  languageCode: ko-kr
+  languageDirection: ltr
+  languageName: 한국어
+  title: 임성혁의 개인페이지
+  weight: 1
+  contentDir: content/ko
+  menus: main
 
-# Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageDirection: ltr
+  languageName: English
+  title: Yim's Page
+  weight: 2
+  contentDir: content/en
+  menus: main_en
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+  languageCode: zh-Hans
+  languageDirection: ltr
+  languageName: 简体中文
+  title: Project Documentation
+  weight: 3
+  contentDir: content/zh
+
