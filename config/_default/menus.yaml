@@ -10,29 +10,24 @@ main:
 
   - parent: 소개
     name: 연혁
-    url: life
+    url: introduce/life
     weight: 11
   - parent: 소개
     name: 군대
-    url: military
+    url: introduce/military
     weight: 12
-  - parent: 소개
-    name: 테스트
-    url: 테스트
-    weight: 13
-
 
   - name: 활동
-    url: post
+    url: activity
     weight: 20
 
   - parent: 활동
     name: 연구실
-    url: lab
+    url: activity/lab
     weight: 21
   - parent: 활동
     name: 동아리
-    url: club
+    url: activity/club
     weight: 22
 
   - name: 관심사
@@ -41,15 +36,15 @@ main:
   
   - parent: 관심사
     name: 주식
-    url: stocks
+    url: attract/stocks
     weight: 31
   - parent: 관심사
     name: 정치/시사
-    url: politics
+    url: attract/politics
     weight: 32
 
   - name: 프로젝트
-    url: publication
+    url: project
     weight: 40
 
   - name: 취미
