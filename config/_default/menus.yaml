@@ -43,12 +43,12 @@ main:
     weight: 30
   
   - parent: 관심사
+    name: 진로
+    url: attract/future
+    weight: 32
+  - parent: 관심사
     name: 주식
     url: attract/stocks
-    weight: 31
-  - parent: 관심사
-    name: 정치/시사
-    url: attract/politics
     weight: 32
 
   - name: 프로젝트
