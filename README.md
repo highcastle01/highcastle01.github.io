@@ -1,48 +1,32 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# 안녕하세요. 전북대학교에 다니고 있는 임성혁입니다. 👋
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+본 레포지토리는 웹서비스 설계 과목의 과제이자 저를 소개하기 위해 만들어졌습니다.  
+저에 대한 간단한 소개부터 제가 그동안 해온 활동들에 대해 자세히 알 수 있습니다.
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+찾아주신 점 정말 감사합니다. 🙇‍♂️
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+---
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+## 본 레포지토리는 Hugo를 기반으로 정적 웹사이트를 배포하고 있습니다.
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+다음은 웹사이트에서 볼 수 있는 메뉴 소개입니다.
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+### 1. 소개 📖
+저에 대한 소개 페이지입니다. 저의 프로필과 연혁에 대해 볼 수 있습니다.
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+### 2. 활동 💼
+학부연구생으로 활동하는 만큼, 연구실 활동과 제가 경험했던 행사들에 대해 알 수 있는 페이지입니다.
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+### 3. 관심사 💡
+저의 진로와 주요 관심사인 주식에 대해 서술한 페이지들이 있는 메뉴입니다.  
+공기업과 같이 안정적인 개발자의 삶을 바라는 저의 진로목표와 주식에 대한 제 사견이 들어가 있습니다.
 
-## We ask you, humbly, to support this open source movement
+### 4. 프로젝트 💻
+제가 그동안 진행한 프로젝트에 대한 포스트가 작성되어 있습니다.
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+### 5. 취미 🎭⚽
+저는 공연관람과 축구관람을 좋아합니다.  
+공연관람의 경우 제가 본 공연을 유튜브에 업로드하고, 유튜브 영상을 공유하였습니다.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-## Demo credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+### 6. 연락처 📧
+저를 만날 수 있는 장소와 연락처를 기재하였습니다. 참고해 주세요. 감사합니다.
