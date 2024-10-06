@@ -164,7 +164,7 @@ sections:
     content:
       title: Activities and History
       items:
-        - title: President of Koala, Department Club of Computer and AI, Chonbuk National University
+        - title: President of Coala, Department Club of Computer and AI, Chonbuk National University
           date_start: '2023-12-01'
           description: |
             I am serving as the president of Koala, the department club of Computer and Artificial Intelligence at Chonbuk National University.
