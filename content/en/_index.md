@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 사이트
+title: Site
 date: 2022-10-24
 type: landing
 
@@ -9,7 +9,7 @@ sections:
     id: about
     content:
       title: ''
-      username: 임성혁
+      username: Yimseonghyuk
     design:
       background:
         image:
@@ -17,24 +17,24 @@ sections:
           size: cover
           position: center
           parallax: true
-          overlay:  # 이미지 위에 투명도 레이어 적용
-            color: '#000000'  # 검정색
-            opacity: 0.1     # % 투명도
-      container:  # 컨테이너 크기 조절
-        width: 70%  # 너비를 70%로 설정
-        max-width: 1200px  # 최대 너비를 1200px로 설정
-        padding: 20px  # 내부 여백 조정
-        margin: 0 auto  # 가운데 정렬
-    text_overlay:  # 텍스트 오버레이
+          overlay:  
+            color: '#000000'  
+            opacity: 0.1     
+      container:  
+        width: 70%  
+        max-width: 1200px  
+        padding: 20px  
+        margin: 0 auto  
+    text_overlay:  
       align: center
-      color: '#ffffff'  # 흰색 텍스트
+      color: '#ffffff'  
 
   - block: slider
     content:
       slides:
 
-      - title: <span style="font-size:90%">TREC2024 참여</span>
-        content: <span style="font-size:90%">이번 여름에 참여한 TREC2024<span style="font-size:90%">
+      - title: <span style="font-size:90%">Participation in TREC2024</span>
+        content: <span style="font-size:90%">TREC2024 I participated in this summer<span style="font-size:90%">
         align: right
         background:
           image:
@@ -46,11 +46,11 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: 게시글
+          text: Post
           url: ../activity/lab/trec2024
 
-      - title: <span style="font-size:90%">전북대 대동제</span>
-        content: <span style="font-size:90%">잔나비 공연</span>
+      - title: <span style="font-size:90%">Jeonbuk University Daedong Festival</span>
+        content: <span style="font-size:90%">Jannabi Performance</span>
         align: right
         background:
           image:
@@ -62,11 +62,11 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: 영상시청
+          text: Watch Video
           url: ../hobbies/concert/jannabi
 
-      - title: <span style="font-size:90%">논문 작성 경험</span>
-        content: <span style="font-size:90%">한국 디지털콘텐츠학회 준비</span>
+      - title: <span style="font-size:90%">Paper Writing Experience</span>
+        content: <span style="font-size:90%">Preparing for the Korea Digital Content Association</span>
         align: right
         background:
           image:
@@ -78,11 +78,11 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: 게시글
+          text: Post
           url: ../activity/lab/write_paper
       
-      - title: <span style="font-size:90%">엔비디아 주식</span>
-        content: <span style="font-size:90%">엔비디아는 오를 것인가?</span>
+      - title: <span style="font-size:90%">NVIDIA Stocks</span>
+        content: <span style="font-size:90%">Will NVIDIA Rise?</span>
         align: right
         background:
           image:
@@ -94,7 +94,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: 게시글
+          text: Post
           url: ../attract/stocks/nvidia
 
     design:
@@ -106,50 +106,50 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 저를 소개합니다 !'
+      title: '📚 Introducing Myself!'
       subtitle: ''
       text: |-
-        안녕하세요. 아래는 제가 대학시절 동안 활동한 내역들 입니다.
-        부족하지만 열심히 한 작품들과 프로젝트들이니 보는 재미가 있을 겁니다.
-        와주셔서 감사합니다.
+        Hello, below are the activities I have been involved in during my university years.
+        Although I still have much to learn, I hope you'll enjoy looking through my works and projects.
+        Thank you for visiting.
     design:
       columns: '1'
 
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">임성혁의 관심사 및 진로</span>
-      text: 관심있는 것들을 나열해봤습니다. <br><br><br><br>
+      title: <span style="font-size:75%">Yimseonghyuk's Interests and Career</span>
+      text: Here are some of my areas of interest. <br><br><br><br>
       items:
-      - name: 인공지능(AI)
+      - name: Artificial Intelligence (AI)
         icon: robot
         icon_pack: fas
-        description: <span style="font-size:90%">정보 마이닝, 데이터 마이닝, LLM과 같이 우리 사회를 변화시킬 기술에 관심이 많습니다.</span><br><br>
-      - name: 정치/법학
+        description: <span style="font-size:90%">I am interested in technologies that will change our society, such as information mining, data mining, and LLM.</span><br><br>
+      - name: Politics/Law
         icon: gavel
         icon_pack: fas
-        description: <span style="font-size:90%">사회 현상, 정치 현상에 관심이 있습니다.</span><br><br>
-      - name: 보안/네트워크
+        description: <span style="font-size:90%">I am interested in social and political phenomena.</span><br><br>
+      - name: Security/Networking
         icon: shield-alt
         icon_pack: fas
-        description: <span style="font-size:90%">보안 사고, 침해 대응 등 보안 기술에 관심이 많습니다.</span><br><br>
-      - name: 공연
+        description: <span style="font-size:90%">I am interested in security incidents and intrusion response.</span><br><br>
+      - name: Concerts
         icon: theater-masks
         icon_pack: fas
-        description: <span style="font-size:90%">공연을 보는 것을 좋아합니다.</span><br><br>
-      - name: 안정적인 삶
+        description: <span style="font-size:90%">I enjoy watching performances.</span><br><br>
+      - name: Stable Life
         icon: home
         icon_pack: fas
-        description: <span style="font-size:90%">안정적인 삶을 지향합니다.</span><br><br>
-      - name: 주식/투자
+        description: <span style="font-size:90%">I value a stable life.</span><br><br>
+      - name: Stocks/Investments
         icon: chart-line
         icon_pack: fas
-        description: <span style="font-size:90%">투자를 통한 자산증식에 관심이 많습니다.</span><br><br>
+        description: <span style="font-size:90%">I am interested in wealth building through investments.</span><br><br>
   
   - block: collection
     content:
       id: section-1
-      title: 진로/관심사
+      title: Career/Interests
       count: 3
       offset: 0
       order: desc
@@ -162,28 +162,28 @@ sections:
 
   - block: experience
     content:
-      title: 활동 및 연혁
+      title: Activities and History
       items:
-        - title: 전북대학교 컴퓨터인공지능학부 과동아리 코알라 회장
+        - title: President of Koala, Department Club of Computer and AI, Chonbuk National University
           date_start: '2023-12-01'
           description: |
-            전북대학교 컴퓨터인공지능학부 과동아리 코알라 회장직을 맡고있습니다.
+            I am serving as the president of Koala, the department club of Computer and Artificial Intelligence at Chonbuk National University.
 
-        - title: 전북대학교 컴퓨터인공지능학부 정보마이닝 연구실 학부연구생
+        - title: Undergraduate Researcher, Information Mining Lab, Department of Computer and AI, Chonbuk National University
           date_start: '2024-03-02'
           description: |
-            전북대학교 컴퓨터인공지능학부 정보마이닝 연구실에서 학부연구활동을 진행중입니다.
+            I am conducting undergraduate research activities at the Information Mining Lab, Department of Computer and AI, Chonbuk National University.
 
-        - title: 전북대학교 인공지능동아리 JBIG 운영진
+        - title: Executive Member of JBIG, AI Club at Chonbuk National University
           date_start: '2024-02-01'
           date_end: '2024-08-31'
           description: |
-            전북대학교 중앙동아리 JBIG의 운영진을 맡았었습니다.
+            I served as an executive member of JBIG, the central AI club at Chonbuk National University.
 
   - block: collection
     content:
       id: section-1
-      title: 진로/관심사
+      title: Career/Interests
       count: 3
       offset: 0
       order: desc
@@ -197,7 +197,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: 취미
+      title: Hobbies
       count: 3
       offset: 0
       order: desc
@@ -210,10 +210,10 @@ sections:
 
   - block: markdown
     content:
-      title: 제 유튜브, 보러 오실래요?
+      title: Want to check out my YouTube channel?
       subtitle:
       text: |
-        {{% cta cta_link="https://www.youtube.com/@Ganymede3084" cta_text="웰컴투마이채널 →" %}}
+        {{% cta cta_link="https://www.youtube.com/@Ganymede3084" cta_text="Welcome to my channel →" %}}
     design:
       columns: '1'
 ---

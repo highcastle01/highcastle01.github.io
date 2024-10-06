@@ -1,16 +1,16 @@
 ---
-title: 울산HD VS 전북현대
+title: Ulsan HD VS Jeonbuk Hyundai
 
-event: 전주월드컵경기장
+event: Jeonju World Cup Stadium
 
-location: 전주월드컵경기장
+location: Jeonju World Cup Stadium
 
-summary: 끔찍했던 경험
-abstract: '울산HD'
+summary: A terrible experience
+abstract: 'Ulsan HD'
 
-authors: [임성혁]
+authors: [Yimseonghyuk]
 
 date: '2024-07-17T13:00:00Z'
 ---
 
-원정석에 가서 봤는데... 패배하고 말았다.. 처절하게 2:0으로..
+I watched the match from the away section... but we lost... a devastating 2-0 defeat.

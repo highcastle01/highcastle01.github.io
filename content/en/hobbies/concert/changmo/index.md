@@ -1,17 +1,17 @@
 ---
-title: 대동제 창모/애쉬 공연
+title: Chango/Ash Island Performance at Daedong Festival
 
-event: 전북대학교
+event: Chonbuk National University
 
-location: 전북대학교
+location: Chonbuk National University
 
-summary: 창모랑 애쉬아일랜드..
-abstract: '공연 최고..'
+summary: Chango and Ash Island..
+abstract: 'The performance was amazing..'
 
-authors: [임성혁]
+authors: [Yimseonghyuk]
 
 date: '2024-05-03T13:00:00Z'
 ---
 {{< youtube dk1r3-uLZdE >}}
 
-팬은 아니었지만 재밌었던 경험.
+I wasn't a fan, but it was a fun experience.

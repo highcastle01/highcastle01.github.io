@@ -1,41 +1,41 @@
 ---
 # Display name
-title: 임성혁
+title: Yimseonghyuk
 
 # Full name (for SEO)
-first_name: 성혁
-last_name: 임
+first_name: Seonghyuk
+last_name: Yim
 
 # Username (this should match the folder name)
 authors:
-  - 임성혁
+  - Yimseonghyuk
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 학부생
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교
+  - name: Chonbuk National University
     url: 'https://www.jbnu.ac.kr/kor'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 저를 소개하는 페이지입니다. 간단한 소개와 함께 제가 진행한 활동들을 첨부하였습니다.
+bio: This is a page introducing me. It contains a brief introduction along with the activities I have been involved in.
 
 interests:
-  - 운영체제
-  - 알고리즘
-  - 인공지능
+  - Operating Systems
+  - Algorithms
+  - Artificial Intelligence
 
 education:
   courses:
-    - course: 학부생
-      institution: 전북대학교
+    - course: Undergraduate Student
+      institution: Chonbuk National University
       year: 2020
-    - course: 고등학생
-      institution: 매곡고등학교
+    - course: High School Student
+      institution: Maegok High School
       year: 2017
 
 # Social/Academic Networking
@@ -67,10 +67,10 @@ user_groups:
   - Researchers
 ---
 
-## 소개
+## Introduction
 
-안녕하세요. 저는 전북대학교 컴퓨터인공지능학부에 3학년으로 재학중인 임성혁입니다. 간단한 저의 학위, 연락처와 제가 진행한 프로젝트들이 담긴 페이지입니다.
-저는 컴퓨터 공학과 관련된 다양한 분야에 관심이 많으며, 특히나 인공지능과 보안에 관심이 많습니다.
-이를 위해 정보마이닝 연구실의 학부연구생으로 활동하고 있으며 교내 보안 대회에서 상을 타는 등 각종 활동을 진행중에 있습니다.
-저의 소개 페이지인 만큼 저에 대해 많은 것을 알고 가시기 바랍니다.
-필요하시면 연락주세요. 감사합니다.
+Hello, I am Yimseonghyuk, a junior student majoring in Computer and Artificial Intelligence at Chonbuk National University. This page contains a brief overview of my education, contact information, and the projects I have worked on.
+I am interested in various fields related to computer science, particularly artificial intelligence and security.
+To pursue these interests, I am actively participating as an undergraduate researcher in the Information Mining Lab and have been involved in various activities, including winning awards in internal security competitions.
+As this is my introduction page, I hope you can learn a lot about me.
+Please feel free to contact me if needed. Thank you.

@@ -1,17 +1,17 @@
 ---
-title: 대동제 잔나비 공연
+title: Jannabi Performance at Daedong Festival
 
-event: 전북대학교
+event: Chonbuk National University
 
-location: 전북대학교
+location: Chonbuk National University
 
-summary: 대동제에 잔나비가 왔어요!!
-abstract: '잔나비 공연'
+summary: Jannabi came to Daedong Festival!!
+abstract: 'Jannabi performance'
 
-authors: [임성혁]
+authors: [Yimseonghyuk]
 
 date: '2024-05-03T13:00:00Z'
 ---
 {{< youtube 5ewMSx3uWEk >}}
 
-잔나비 최고!!!
+Jannabi is the best!!!

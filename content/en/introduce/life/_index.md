@@ -6,22 +6,22 @@ type: "landing"
 sections:
   - block: experience
     content:
-      title: 활동 및 연혁
+      title: Activities and History
       items:
-        - title: 전북대학교 컴퓨터인공지능학부 과동아리 코알라 회장
+        - title: President of Koala, Department Club of Computer and AI, Chonbuk National University
           date_start: '2023-12-01'
           description: |
-            전북대학교 컴퓨터인공지능학부 과동아리 코알라 회장직을 맡고있습니다.
+            I am serving as the president of Koala, the department club of Computer and Artificial Intelligence at Chonbuk National University.
 
-        - title: 전북대학교 컴퓨터인공지능학부 정보마이닝 연구실 학부연구생
+        - title: Undergraduate Researcher, Information Mining Lab, Department of Computer and AI, Chonbuk National University
           date_start: '2024-03-02'
           description: |
-            전북대학교 컴퓨터인공지능학부 정보마이닝 연구실에서 학부연구활동을 진행중입니다.
+            I am conducting undergraduate research activities at the Information Mining Lab, Department of Computer and AI, Chonbuk National University.
 
-        - title: 전북대학교 인공지능동아리 JBIG 운영진
+        - title: Executive Member of JBIG, AI Club at Chonbuk National University
           date_start: '2024-02-01'
           date_end: '2024-08-31'
           description: |
-            전북대학교 중앙동아리 JBIG의 운영진을 맡았었습니다.
+            I served as an executive member of JBIG, the central AI club at Chonbuk National University.
 
 ---

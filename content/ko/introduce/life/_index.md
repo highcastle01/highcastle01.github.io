@@ -1,6 +1,6 @@
 ---
-title: "My Life Page"
-description: "This is my life page"
+title: "소개 및 연혁"
+description: "대학생활동안의 연혁을 소개합니다."
 type: "landing"
 
 sections:

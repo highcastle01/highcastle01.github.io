@@ -7,18 +7,18 @@ type: landing
 sections:
   - block: contact
     content:
-      title: 찾아오는 길
+      title: Directions
       text: |-
-        저에게 사무실이 있지는 않지만, 저를 찾아오거나 저에게 연락을 주실 방법은 무궁무진합니다.
-        대부분 공과대학 7호관에 있거든요. 아래 정보를 참고해주세요. 감사합니다.
+        I don't have an office, but there are plenty of ways to find me or get in touch with me.
+        I'm mostly in Building 7 of the College of Engineering. Please refer to the information below. Thank you.
       email: castle_h0326@jbnu.ac.kr
       phone: 010-8111-3021
       address:
-        street: 전북대학교 공과대학 7호관 626호
-        city: 전주시
-        region: 전라북도
+        street: Room 626, College of Engineering Building 7, Chonbuk National University
+        city: Jeonju
+        region: Jeollabuk-do
         postcode: '54896'
-        country: 대한민국
+        country: South Korea
         country_code: KO
       coordinates:
         latitude: '35.84601324617979'
