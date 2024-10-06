@@ -1,8 +1,6 @@
 <div class="card-grid">
     {{ range .Pages }}
     {{ $item := . }}
-    {{ $has_attachments := partial "functions/has_attachments" $item }}
-    
     {{ $link := $item.RelPermalink }}
     {{ $target := "" }}
     {{ if $item.Params.external_link }}
@@ -24,27 +22,21 @@
     
     <div class="card">
       {{ with $resource }}
-      {{ $image := .Resize "550x" }}
-      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
-        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-             alt="{{ $item.Title }}" class="img-responsive" loading="lazy">
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image">
+        <img src="{{ .RelPermalink }}" alt="{{ $item.Title }}" class="img-responsive" loading="lazy">
       </a>
       {{ end }}
       <div class="card-content">
-        <div class="card-title">
-          <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
-        </div>
-  
-        {{ with $summary }}
-        <div class="card-description">
-          <p>{{ . }}</p>
-        </div>
+        <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
+        {{ if $summary }}
+        <p>{{ $summary }}</p>
         {{ end }}
   
-        {{ if $has_attachments }}
+        {{ if $item.Params.links }}
         <div class="btn-links">
-          {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+          {{ range $item.Params.links }}
+          <a href="{{ .url }}" class="btn">{{ .label }}</a>
+          {{ end }}
         </div>
         {{ end }}
       </div>
