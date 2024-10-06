@@ -169,9 +169,9 @@ sections:
       order: desc
       filters:
         folders:
-          - introduce
+          - introduce/life
     design:
-      view: compact
+      view: card
       columns: '2'
 
   - block: collection
