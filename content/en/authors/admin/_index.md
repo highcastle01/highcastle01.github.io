@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: Undergraduate Student
-      institution: Chonbuk National University
+      institution: JBNU CSAI
       year: 2020
     - course: High School Student
       institution: Maegok High School

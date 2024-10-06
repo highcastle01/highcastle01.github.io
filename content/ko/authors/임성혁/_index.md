@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: 학부생
-      institution: 전북대학교
+      institution: 전북대학교 IT정보공학과
       year: 2020
     - course: 고등학생
       institution: 매곡고등학교
