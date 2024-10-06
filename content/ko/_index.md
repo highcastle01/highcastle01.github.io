@@ -162,7 +162,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: Notifications & News
+      title: 진로/관심사
       count: 3
       offset: 0
       order: desc
@@ -176,13 +176,13 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: Notifications & News
+      title: 연혁
       count: 3
       offset: 0
       order: desc
       filters:
         folders:
-          - life
+          - introduce
     design:
       view: compact
       columns: '2'
