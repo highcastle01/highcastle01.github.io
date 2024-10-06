@@ -118,33 +118,34 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">Lab's Interests</span>
+      title: <span style="font-size:75%">임성혁의 관심사 및 진로</span>
       text: 관심있는 것들을 나열해봤습니다. <br><br><br><br>
       items:
-        - name: 인공지능(AI)
-          icon: code-branch
-          icon_pack: fas
-          description: <span style="font-size:90%">의료 (Medical), 항공우주 (Aerospace), 컨텐츠 (Contents) 등 다양한 특성화 분야에 적응형 AI 기술 적용.</span><br><br>
-        - name: 멀티모달(Multi-modality)
-          icon: globe
-          icon_pack: fas
-          description:  <span style="font-size:90%">Vision & Language 분야의 기반 AI 기술 개발 및 관련 응용 어플리케이션에 기술 적용.</span><br><br>
-        - name: 의료수학(Medical Math)
-          icon: calculator
-          icon_pack: fas
-          description:  <span style="font-size:90%">의료 분야에 대한 통계 분석 수행 및 의료 질병에 대한 수학적인 모델링 관련 연구 수행.</span><br><br>
-        - name: 컨텐츠 (Contents)
-          icon: comment-dots
-          icon_pack: fas
-          description:  <span style="font-size:90%">웹툰 및 미디어 컨텐츠와 관련된 AI 기반 기술 개발 및 고도화.</span><br><br>
-        - name: 개발 (Development)
-          icon: laptop
-          icon_pack: fas
-          description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발.</span><br><br>
-        - name: 솔루션 (Solution)
-          icon: app-store-ios
-          icon_pack: fab
-          description:  <span style="font-size:90%">AI 기반기술 및 관련 어플리케이션에 적용을 통한 통합 솔루션 개발!</span><br><br>
+      - name: 인공지능(AI)
+        icon: robot
+        icon_pack: fas
+        description: <span style="font-size:90%">정보 마이닝, 데이터 마이닝, LLM과 같이 우리 사회를 변화시킬 기술에 관심이 많습니다.</span><br><br>
+      - name: 정치/법학
+        icon: gavel
+        icon_pack: fas
+        description: <span style="font-size:90%">사회 현상, 정치 현상에 관심이 있습니다.</span><br><br>
+      - name: 보안/네트워크
+        icon: shield-alt
+        icon_pack: fas
+        description: <span style="font-size:90%">보안 사고, 침해 대응 등 보안 기술에 관심이 많습니다.</span><br><br>
+      - name: 공연
+        icon: theater-masks
+        icon_pack: fas
+        description: <span style="font-size:90%">공연을 보는 것을 좋아합니다.</span><br><br>
+      - name: 안정적인 삶
+        icon: home
+        icon_pack: fas
+        description: <span style="font-size:90%">안정적인 삶을 지향합니다.</span><br><br>
+      - name: 주식/투자
+        icon: chart-line
+        icon_pack: fas
+        description: <span style="font-size:90%">투자를 통한 자산증식에 관심이 많습니다.</span><br><br>
+
 
   - block: hero
     content:
