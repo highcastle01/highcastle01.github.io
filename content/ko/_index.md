@@ -129,7 +129,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 최근 소식
       subtitle:
       text:
       count: 5
