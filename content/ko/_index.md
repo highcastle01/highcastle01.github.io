@@ -202,10 +202,10 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: 제 유튜브, 보러 오실래요?
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="https://www.youtube.com/@Ganymede3084" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
