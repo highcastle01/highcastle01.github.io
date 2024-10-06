@@ -27,15 +27,15 @@ publishDate: '2024-10-06T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
 abstract: 컴퓨터인공지능학부의 졸업필수조건이자 누구나 거쳐가야하는 관문. 산학실전캡스톤 활동입니다.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 전북대학교 컴퓨터인공지능학부 산학실전캡스톤 활동
 
-tags: []
+tags: [캡스톤, 산학실전, 감정일기, AI]
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,13 +46,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/capstone-gaon
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -77,12 +77,9 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+## 캡스톤 ##
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+### AI 기반 감정일기 ###
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+졸업을 앞둔 혹은 졸업을 할 생각이 있는 전북대학교 컴퓨터인공지능학부생은 무조건 거쳐야만 하는 것이 바로 캡스톤이다.
+이 캡스톤을 4학년도 아닌 3학년에 하게 되면서 꽤나 많은 고민이 되었다.
