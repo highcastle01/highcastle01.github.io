@@ -46,7 +46,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/capstone-gaon
+url_code: 'https://github.com/capstone-gaon'
 url_dataset: ''
 url_poster: ''
 url_project: ''
