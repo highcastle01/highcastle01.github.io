@@ -4,62 +4,62 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 소개
+  - name: Introduction
     url: introduce
     weight: 10
 
-  - parent: 소개
-    name: 프로필
-    url: author/임성혁/
+  - parent: Introduction
+    name: Profile
+    url: author/Seonghyuk-Lim/
     weight: 11
-  - parent: 소개
-    name: 연혁
+  - parent: Introduction
+    name: History
     url: introduce/life
     weight: 12
 
-  - name: 활동
+  - name: Activities
     url: activity
     weight: 20
 
-  - parent: 활동
-    name: 연구실
+  - parent: Activities
+    name: Laboratory
     url: activity/lab
     weight: 21
-  - parent: 활동
-    name: 경험
+  - parent: Activities
+    name: Experience
     url: activity/experience
     weight: 22
 
-  - name: 관심사
+  - name: Interests
     url: attract
     weight: 30
   
-  - parent: 관심사
-    name: 진로
+  - parent: Interests
+    name: Future
     url: attract/future
-    weight: 32
-  - parent: 관심사
-    name: 주식
+    weight: 31
+  - parent: Interests
+    name: Stocks
     url: attract/stocks
     weight: 32
 
-  - name: 프로젝트
+  - name: Projects
     url: project
     weight: 40
 
-  - name: 취미
+  - name: Hobbies
     url: hobbies
     weight: 60
 
-  - parent: 취미
-    name: 공연 관람
+  - parent: Hobbies
+    name: Concert Watching
     url: hobbies/concert
     weight: 61
-  - parent: 취미
-    name: 축구 관람
+  - parent: Hobbies
+    name: Soccer Watching
     url: hobbies/soccer
     weight: 62
 
-  - name: 연락처
+  - name: Contact
     url: contact
     weight: 70
