@@ -1,8 +1,8 @@
 ---
-title: "관심사"
+title: "진로"
 type: "page"
 
-view: custom_card
+view: masonry
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'

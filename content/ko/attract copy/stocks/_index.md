@@ -1,5 +1,5 @@
 ---
-title: "관심사"
+title: "주식"
 type: "page"
 
 view: custom_card
