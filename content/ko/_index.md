@@ -161,22 +161,17 @@ sections:
   
   - block: collection
     content:
-      title: 최근 소식
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+      id: section-1
+      title: Notifications & News
+      count: 3
       offset: 0
       order: desc
-      page_type: post
+      filters:
+        folders:
+          - attract
     design:
-      view: card
-      columns: '1'
+      view: compact
+      columns: '2'
   
   - block: markdown
     content:
