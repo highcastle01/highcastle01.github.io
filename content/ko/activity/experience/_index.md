@@ -2,7 +2,7 @@
 title: "경험"
 type: "page"
 
-view: custom_image_card
+view: card
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
