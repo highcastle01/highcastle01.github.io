@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -83,3 +83,20 @@ slides: example
 
 졸업을 앞둔 혹은 졸업을 할 생각이 있는 전북대학교 컴퓨터인공지능학부생은 무조건 거쳐야만 하는 것이 바로 캡스톤이다.
 이 캡스톤을 4학년도 아닌 3학년에 하게 되면서 꽤나 많은 고민이 되었다.
+
+### 데이터 전처리 ###
+
+Ai hub에서 제공되는 정제된 데이터나 각종 인터넷 커뮤니티의 게시글들을 크롤링한 뒤 가공, 전처리 하였다.
+
+### 프론트엔드 ###
+
+앱으로 개발하기 위해 React Native로 제작 하였다.
+
+### 백엔드 ###
+
+미들웨어를 비롯한 각종 모듈들을 쉽게 다루기 위해 Nest.js를 사용하였고, Postgresql을 사용하였다.
+
+### LLM ###
+
+Kobert 모델을 통해 감정을 분류하고
+Llama3 모델을 이용해 메세지를 생성하여 제공하였다.
