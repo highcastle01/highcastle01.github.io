@@ -18,7 +18,7 @@ role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Chonbuk National University
+  - name: JBNU
     url: 'https://www.jbnu.ac.kr/kor'
 
 # Short bio (displayed in user profile at end of posts)
