@@ -2,7 +2,7 @@
 title: "진로"
 type: "page"
 
-view: masonry
+view: showcase
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
