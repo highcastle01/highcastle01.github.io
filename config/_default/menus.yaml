@@ -16,10 +16,6 @@ main:
     name: 연혁
     url: introduce/life
     weight: 12
-  - parent: 소개
-    name: 군대
-    url: introduce/military
-    weight: 13
 
   - name: 활동
     url: activity
@@ -30,13 +26,9 @@ main:
     url: activity/lab
     weight: 21
   - parent: 활동
-    name: 동아리
-    url: activity/club
-    weight: 22
-  - parent: 활동
     name: 경험
     url: activity/experience
-    weight: 23
+    weight: 22
 
   - name: 관심사
     url: attract

@@ -176,16 +176,17 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
-      count: 5
+      id: section-1
+      title: 진로/관심사
+      count: 3
+      offset: 0
+      order: desc
       filters:
         folders:
-          - publication
-        publication_type: 'article'
+          - activity
     design:
-      view: citation
-      columns: '1'
+      view: compact
+      columns: '2'
 
   - block: markdown
     content:
