@@ -5,38 +5,30 @@
 
 # Appearance
 
-# appearance:
-#   theme_day: minimal
-#   theme_night: dark
-#   font: native
-#   font_size: L
-
 appearance:
-  theme_night: minimal
+  theme_night: dark
   theme_day: minimal
   font: sans-serif
-  font_size: L
-
-# appearance:
-#   mode: system
-#   color: emerald
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Introduction Page of Seonghyuk Lim'
+    description: 'This page introduces Seonghyuk Lim.'
+    twitter: ''
+    keywords: ['Chonbuk National University', 'CBNU', 'Seonghyuk Lim', 'CBNU Seonghyuk Lim']
+    og_image: '../assets/media/icon.png'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: '../static/google25e0a343c0395755.html'
     baidu: ''
 
 # Site header
@@ -51,6 +43,7 @@ header:
     show_search: true
     show_theme_chooser: true
     highlight_active_link: false
+    custom_css: "/scss/custom.css"
 
 # Site footer
 
@@ -83,7 +76,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/highcastle01/highcastle01.github.io'
     content_dir: content
     branch: main
   avatar:
