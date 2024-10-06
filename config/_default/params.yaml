@@ -21,13 +21,14 @@ marketing:
     description: '임성혁을 소개하는 페이지입니다.'
     twitter: ''
     keywords: ['전북대학교', '전북대', '임성혁', '전북대 임성혁']
+    og_image: '../assets/media/icon.png'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: '../static/google25e0a343c0395755.html'
     baidu: ''
 
 # Site header
