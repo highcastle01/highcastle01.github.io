@@ -2,10 +2,10 @@
 title: "경험"
 type: "page"
 
-view: date-title-summary
+view: card
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'club.jpg'
+  image: 'experience.jpg'
 
 ---
